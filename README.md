@@ -3,10 +3,10 @@ A Spring Boot web application designed to manage the hostel wardens. The project
 
 
 ## Features
-**List Wardens:** Display a list of all wardens with details such as name, email, and contact number.
-**Add Warden:** Allows adding new wardens to the database.
-**Delete Warden:** Enables deleting wardens from the list.
-**JSP-based User Interface:** Uses JSP with JSTL for a clean, templated view.
+- **List Wardens:** Display a list of all wardens with details such as name, email, and contact number.
+- **Add Warden:** Allows adding new wardens to the database.
+- **Delete Warden:** Enables deleting wardens from the list.
+- **JSP-based User Interface:** Uses JSP with JSTL for a clean, templated view.
 
 ## Tech Stack
 - Java 17
