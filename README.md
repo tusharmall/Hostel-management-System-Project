@@ -17,6 +17,8 @@ This is a Spring Boot-based Hostel Management System Application designed to man
 - JSP for rendering views
 - H2 Database (for testing)
 - Maven for dependency management
+- CSS
+  
 
 ## Screenshots
 
@@ -51,7 +53,7 @@ The application uses Spring Security for user authentication. The security confi
 
 ## Frontend
 
-The frontend is built using JSP for rendering views. It includes forms for entering course, room, and student details, as well as tables for displaying existing records.
+The frontend is built using JSP for rendering views and CSS for styling. It includes forms for entering course, room, and student details, as well as tables for displaying existing records.
 
 ## Acknowledgements
 - Spring Boot Documentation
