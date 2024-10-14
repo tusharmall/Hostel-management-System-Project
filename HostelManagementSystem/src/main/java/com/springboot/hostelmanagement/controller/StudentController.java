@@ -49,26 +49,4 @@ public class StudentController {
         studentRepository.deleteById(id);
         return "redirect:list-students";
     }
-    
-    
-   // this code courses and students var for existing courses 
-    
-//    // Show add course form with the list of existing courses
-//    @RequestMapping(value = "add-course", method = RequestMethod.GET)
-//    public String showAddCoursePage(ModelMap model) {
-//        model.put("course", new Course());  // Empty course form for new addition
-//        model.put("courses", courseRepository.findAll());  // List of existing courses
-//        return "course";  // Render course.jsp
-//    }
-//
-//    // Add a new course and reload the same page showing the updated list
-//    @RequestMapping(value = "add-course", method = RequestMethod.POST)
-//    public String addCourse(ModelMap model, @Valid Course course, BindingResult result) {
-//        if (result.hasErrors()) {
-//            model.put("courses", courseRepository.findAll());  // Reload list in case of validation error
-//            return "course";
-//        }
-//        courseRepository.save(course);
-//        return "redirect:list-courses";  // Redirect to the same page to reload the list
-//    }
 }
