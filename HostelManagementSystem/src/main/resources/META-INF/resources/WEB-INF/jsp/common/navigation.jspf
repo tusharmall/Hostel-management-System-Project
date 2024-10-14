@@ -1,0 +1,22 @@
+<nav class="navbar navbar-expand-md navbar-light bg-light mb-3 p-1">
+	
+	<div class="collapse navbar-collapse">
+	
+		<ul class="navbar-nav">
+			<li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+			<li class="nav-item"><a class="nav-link" href="list-students">Student</a></li>
+		<li class="nav-item"><a class="nav-link" href="list-rooms">Rooms</a></li>
+		<li class="nav-item"><a class="nav-link" href="list-courses">Courses</a></li>
+		</ul>
+		
+	</div>
+	<ul class="navbar-nav">
+		<li class="nav-item"><a class="nav-link" href="/logout">Logout</a></li>
+	</ul>
+</nav>
+<nav>
+    <ul style="list-style-type: none; text-align: center;">
+        <h1 style="margin: 0;"><i>HOSTEL MANAGEMENT SYSTEM</i></h1>
+    </ul>
+</nav>
+
