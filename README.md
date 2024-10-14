@@ -23,21 +23,22 @@ This is a Spring Boot-based Hostel Management System Application designed to man
 ### Login Page
 ![Screenshot 2024-10-14 161256](https://github.com/user-attachments/assets/2fe98142-fca0-4996-971b-011de791a9ba)
 ### Welcome Page
-![Screenshot 2024-10-14 161234](https://github.com/user-attachments/assets/0a55ae5a-baf0-4c77-ad34-31e393e398a8)
+![Screenshot 2024-10-15 014647](https://github.com/user-attachments/assets/87bfe64c-6a68-4da8-ace2-7e76855404d1)
 
 ### Room Management
-![Screenshot 2024-10-14 161434](https://github.com/user-attachments/assets/f2272b18-cf74-44ab-baac-b1b462f270ab)
+![Screenshot 2024-10-15 021150](https://github.com/user-attachments/assets/aac93bd9-6a54-4e6c-8b22-b18b8592ade7)
 
-![Screenshot 2024-10-14 161414](https://github.com/user-attachments/assets/24d05e13-e459-40b3-8408-1b6c01be60ad)
+![Screenshot 2024-10-15 021217](https://github.com/user-attachments/assets/a5c7bb3d-50c4-4b4f-b4bf-5a7070a19b2b)
 
 ### Student Management
-![Screenshot 2024-10-14 161357](https://github.com/user-attachments/assets/56377de6-9806-421d-a2db-1bfa5674b2c3)
+![Screenshot 2024-10-15 021043](https://github.com/user-attachments/assets/d0cdcac0-ae21-4abd-aa21-02087109aeec)
 
-![Screenshot 2024-10-14 161322](https://github.com/user-attachments/assets/d0e93fd2-3788-46a6-925e-7ae834447ce6)
+![Screenshot 2024-10-15 021120](https://github.com/user-attachments/assets/37204803-34ff-4263-9b33-e8a9bb9f8fb3)
 
 ### Course Management
-![Screenshot 2024-10-14 161511](https://github.com/user-attachments/assets/be92f4d7-3f5f-4b2f-aee7-30660cd3499d)
-![Screenshot 2024-10-14 161452](https://github.com/user-attachments/assets/a09c1fe3-891c-4f50-bb6c-6d443a3e28ef)
+![Screenshot 2024-10-15 021238](https://github.com/user-attachments/assets/d00c038e-2b59-460b-a365-79f6a348f1d4)
+
+![Screenshot 2024-10-15 021338](https://github.com/user-attachments/assets/7ccee2b5-a7ea-45b2-9500-55792704396a)
 
 
 ## Application Structure
