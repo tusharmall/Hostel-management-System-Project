@@ -30,7 +30,7 @@ This is a Spring Boot-based Hostel Management System Application designed to man
 ### Room Management
 ![Screenshot 2024-10-15 021150](https://github.com/user-attachments/assets/aac93bd9-6a54-4e6c-8b22-b18b8592ade7)
 
-![Screenshot 2024-10-15 021217](https://github.com/user-attachments/assets/a5c7bb3d-50c4-4b4f-b4bf-5a7070a19b2b)
+![image](https://github.com/user-attachments/assets/fc940334-0ac4-4c60-815c-de42020990c7)
 
 ### Student Management
 ![Screenshot 2024-10-15 021043](https://github.com/user-attachments/assets/d0cdcac0-ae21-4abd-aa21-02087109aeec)
