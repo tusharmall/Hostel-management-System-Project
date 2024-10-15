@@ -35,12 +35,12 @@ This is a Spring Boot-based Hostel Management System Application designed to man
 ### Student Management
 ![Screenshot 2024-10-15 021043](https://github.com/user-attachments/assets/d0cdcac0-ae21-4abd-aa21-02087109aeec)
 
-![Screenshot 2024-10-15 021120](https://github.com/user-attachments/assets/37204803-34ff-4263-9b33-e8a9bb9f8fb3)
+![image](https://github.com/user-attachments/assets/75872ffd-78d9-4020-b2a5-7c530bd43203)
 
 ### Course Management
 ![Screenshot 2024-10-15 021238](https://github.com/user-attachments/assets/d00c038e-2b59-460b-a365-79f6a348f1d4)
 
-![Screenshot 2024-10-15 021338](https://github.com/user-attachments/assets/7ccee2b5-a7ea-45b2-9500-55792704396a)
+![image](https://github.com/user-attachments/assets/4baeea5c-e835-4a05-bfe9-78433da8eb8c)
 
 
 ## Application Structure
